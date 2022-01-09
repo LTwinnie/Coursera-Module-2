@@ -1,4 +1,36 @@
-body {
-	Background-color: blue;
-	font-size: 130%;
+body{
+	font-family: "Georgia",serif;
+}
+h1{
+	text-align: center;
+	font-size: 175%;
+}
+h2{
+	font-size: 125%;
+	Background-color: #F5B7B1;
+	Width: 250px;
+	Height: 50px;
+	border-width: 1px;
+	border-color:  black;
+}
+h3{
+	font-size: 125%;
+	Background-color: #AED6F1;
+	Width: 250px;
+	Height: 50px;
+	border-width: 1px;
+	border-color:  black;
+}
+h4{
+	font-size: 125%;
+	Background-color: #FAD7A0;
+	Width: 250px;
+	Height: 50px;
+	border-width: 1px;
+	border-color:  black;
+}
+p{
+	Background-color: grey;
+	border-width: 1px;
+	border-color:  black;
 }
